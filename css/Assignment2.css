@@ -1,6 +1,6 @@
 body{
 	font-family: Verdana, Arial, sans-serif;
-	background-color: #FFFFFF;
+	background-image: url(background.jpg);
 	color: #666666;
 	margin-left: auto;
 	margin-right: auto;
@@ -43,4 +43,10 @@ footer{
     }
 #trailhero{
     
+    }
+#wrapper{
+    background-color: #ffffff;
+    min-width: 700px;
+    max-width: 1024px;
+    box-shadow: 15px;
     }
